@@ -5,7 +5,19 @@
 I made a basic python script to go throughout all the cache directories on windows (all that i knew and researched) and delete them all ,
 for some it needs to be "Run as administrator"
 ## How to use
-Have python on your windows , open a powershell or cmd as administrator go to the location where you have this script saved then just type
+
+Main =>
+Step 1 : Have python on your windows
+Step 2 : Open a powershell or cmd as administrator go to the location where you have this script saved/downloaded then just type
 ``` python
 py cleaner.py
 ```
+
+Alternative =>
+Step 1 : Go to the location where you have this script saved/downloaded
+Step 2 : Hold Shift then right click and choose copy as path
+Step 3 : Open a powershell or cmd as administrator then just type 
+``` python
+exec(open(r"location").read())
+```
+Change/Replace "location" with/to the location you copied using Step 2
