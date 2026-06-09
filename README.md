@@ -23,9 +23,10 @@ exec(open(r"location").read())
 Change/Replace "location" with/to the location you copied using Step 2.
 
 >[!TIP]
-> It is advised to look at the script before executing it , just to know what will be deleted and/or exclude some paths that you may want to keep
+> It is advised to look at the script before executing it , just to know what will be deleted and/or exclude some paths that you may want to keep.
 
 
 > [!CAUTION]
-> It will delete the pre-compiled shaders, so when you enter a game you have to wait until it pre-compile shaders again
-> it will also log you out of steam , so dont be scared
+> - It will delete the pre-compiled shaders, so when you enter a game you have to wait until it pre-compile shaders again.
+> - It will also log you out of steam , so dont be scared.
+> - Don't run this mid windows update, it will force the update to redownload.
