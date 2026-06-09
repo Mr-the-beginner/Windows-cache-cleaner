@@ -39,7 +39,6 @@ def main():
         "%SystemRoot%/Memory.dmp",
         "%SystemRoot%/Minidump/*.dmp",
         "%SystemRoot%/SoftwareDistribution/Download/*",
-        "%SystemRoot%/SoftwareDistribution/*",
         "%SystemRoot%/Installer/$PatchCache$/*",
         "%SystemRoot%/Installer/*",
 
