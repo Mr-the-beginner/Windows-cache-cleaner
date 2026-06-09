@@ -71,7 +71,6 @@ def main():
         "%APPDATA%/Microsoft/Teams/*",
         "%USERPROFILE%/AppData/Local/Packages/Microsoft.MSTeams_8wekyb3d8bbwe/LocalCache/Microsoft/MSTeams/*",
         "%PROGRAMFILES(X86)%/Steam/appcache/*",
-        "%PROGRAMFILES(X86)%/Steam/steamapps/common/*",
         "%LOCALAPPDATA%/Steam/*",
 
         # --- Shader Cache (GPU) ---
